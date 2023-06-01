@@ -1,0 +1,17 @@
+arm,timepoint,statistic,p.value,method,alternative,FDR_p_value
+Placebo + Nivo,D-7,11,0.9999999999999998,Wilcoxon signed rank exact test,two.sided,1
+SER-401,D-7,36,0.007812500000000002,Wilcoxon signed rank exact test,two.sided,0.12500000000000003
+Placebo + Nivo,C1D1,5,0.3125000000000001,Wilcoxon signed rank exact test,two.sided,0.8333333333333336
+SER-401,C1D1,12,0.8125000000000001,Wilcoxon signed rank exact test,two.sided,0.9642857142857145
+Placebo + Nivo,C1D8,6,0.8125,Wilcoxon signed rank exact test,two.sided,0.9642857142857145
+SER-401,C1D8,9,0.4687500000000001,Wilcoxon signed rank exact test,two.sided,0.8888888888888888
+Placebo + Nivo,C2D1,9,0.8437500000000002,Wilcoxon signed rank exact test,two.sided,0.9642857142857145
+SER-401,C2D1,11,0.38281250000000006,Wilcoxon signed rank exact test,two.sided,0.8750000000000001
+Placebo + Nivo,C3D1,12,0.8437500000000002,Wilcoxon signed rank exact test,two.sided,0.9642857142857145
+SER-401,C3D1,5,0.3125000000000001,Wilcoxon signed rank exact test,two.sided,0.8333333333333336
+Placebo + Nivo,C4D1,14,0.125,Wilcoxon signed rank exact test,two.sided,0.8333333333333336
+SER-401,C4D1,5,0.625,Wilcoxon signed rank exact test,two.sided,0.9642857142857145
+Placebo + Nivo,C7D1,16,0.3125000000000001,Wilcoxon signed rank exact test,two.sided,0.8333333333333336
+SER-401,C7D1,0,0.25000000000000006,Wilcoxon signed rank exact test,two.sided,0.8333333333333336
+Placebo + Nivo,EOT,0,1,Wilcoxon signed rank exact test,two.sided,1
+SER-401,EOT,0,0.5,Wilcoxon signed rank exact test,two.sided,0.8888888888888888
