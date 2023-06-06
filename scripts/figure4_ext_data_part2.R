@@ -168,7 +168,7 @@ for (ARM in c("SER-401 Placebo", "SER-401 Active")) {
 
 
 
-        # Plot Degree distribution for ABX SCRN
+
         #   *This plot DOES NOT filter for co-occurrence*
         df2 <- corr_dist_degree %>%
             data.frame() %>%
